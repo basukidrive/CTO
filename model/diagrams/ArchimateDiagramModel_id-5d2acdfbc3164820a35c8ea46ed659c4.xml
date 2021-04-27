@@ -14,4 +14,16 @@
         width="185"
         height="80"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-19189a9535e4403aae2627274bb63829">
+    <bounds
+        x="251"
+        y="181"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-f1a461dac7e0492794d57df83d2981f1.xml#id-f1a461dac7e0492794d57df83d2981f1"/>
+  </children>
 </archimate:ArchimateDiagramModel>
